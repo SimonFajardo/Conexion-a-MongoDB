@@ -1,4 +1,4 @@
-# backend_mongodb
+# Conexión a MongoDB
 Conexión a MongoDB desde NodeJS con Mongoose.
 
 1- Abrir la terminal de Visual Studio Code y ejecutar estando posicionado dentro de la carpeta (backend_mongodb) el comando npm init --yes, al haber previamente instalado en la computadora el entorno Node.js. Una vez ejecutado este comando se genera en la carpeta el archivo package.json.
